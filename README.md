@@ -23,7 +23,8 @@ This lab requires:
 
 The lab environment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
-### Contents
+Contents
+---
 
 * Traffic_Sign_Classifier
     * jupyter notebook containing all code
