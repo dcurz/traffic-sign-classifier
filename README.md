@@ -4,8 +4,9 @@
 
 Skills
 ---
+* Deep Learning
+    * TensorFlow
 * Python 
-* TensorFlow
 
 Overview
 ---
